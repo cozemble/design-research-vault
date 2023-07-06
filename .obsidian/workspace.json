@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "090cfb80e1e02fa3",
+            "id": "724fdecb9476981b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Model Data Record.md",
+                "file": "Definitions/Model Schema Editing.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,8 +42,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b52b87536f638321",
@@ -55,10 +54,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Definitions/Model Schema Editing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -87,13 +87,13 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "repelStrength": 13.4736842105263,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.7132754626224422,
+                  "close": true
                 }
               }
             }
@@ -164,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Definitions/Model Schema Editing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Definitions/Model Schema Editing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Definitions/Model Schema Editing.md"
+              }
             }
           }
         ]
@@ -221,20 +225,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffd5e42df0d413f7",
+  "active": "724fdecb9476981b",
   "lastOpenFiles": [
-    "Definitions/Model Data Record.md",
     "Model Data Editing.md",
-    "Canvas.canvas",
+    "Definitions/Array Field.md",
+    "Definitions/Object Field.md",
     "Definitions/Complex Fields.md",
+    "Definitions/Model Schema Editing.md",
+    "Definitions/Model Schema.md",
+    "Definitions/Model Data Record.md",
+    "Canvas.canvas",
     "Expectations/Can Edit Schema in Data View.md",
     "README.md",
     "design-research",
     "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
     "Definitions/Model Data.md",
-    "Definitions/Model Schema Editing.md",
     "Definitions/Model.md",
-    "Definitions/Model Schema.md",
     "Definitions/Simple Fields.md",
     "Definitions/Field Types.md",
     "Definitions",
