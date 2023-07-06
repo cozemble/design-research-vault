@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "5b6d8c222aa1430c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc99f93f7507e1f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8f4bb7ca58ea7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expectations/Can Edit Schema in Data View.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "242ba279f8fc958b"
+          },
+          {
+            "id": "484bddc8224235c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b52b87536f638321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf088ca66da116eb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Expectations/Can Edit Schema in Data View.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "242ba279f8fc958b"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d34a5f1d41411e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "33c4aaf2beb28a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863fd359b6228387",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0325919ffaf8b855",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4f0e62a80e108a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6630f621aa378bcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "99f30e73118140a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08f423dadfb1d874",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Expectations/Can Edit Schema in Data View.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e9c8fca00f307bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Expectations/Can Edit Schema in Data View.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4938324a8f75bf00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "246a9a979e173c3a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Expectations/Can Edit Schema in Data View.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bf8f4bb7ca58ea7c",
+  "lastOpenFiles": [
+    "design-research",
+    "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
+    "Expectations/Can Edit Schema in Data View.md",
+    "README.md",
+    "Definitions/Model Instance.md",
+    "Definitions/Model Data.md",
+    "Definitions/Model Schema Editing.md",
+    "Definitions/Model.md",
+    "Definitions/Model Schema.md",
+    "Definitions/Simple Fields.md",
+    "Definitions/Field Types.md",
+    "Canvas.canvas",
+    "Definitions",
+    "Definitions/Complex Fields.md",
+    "AI",
+    "Expectations",
+    "Schema"
+  ]
+}

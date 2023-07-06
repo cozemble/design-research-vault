@@ -1,0 +1,1 @@
+When trying to satisfy the [[Can Edit Schema in Data View]] expectation, editing the [[Nested Schema]]s of a [[Model Schema]] is making the UI too complex.

@@ -1,0 +1,1 @@
+Collection for all [[Model Instance]]s of a [[Model]].
