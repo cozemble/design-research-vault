@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Model Schema Editing.md",
+                "file": "Actions/Model Schema Editing.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Definitions/Model Schema Editing.md",
+                "file": "Actions/Model Schema Editing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Model Schema Editing.md",
+                "file": "Actions/Model Schema Editing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Model Schema Editing.md",
+                "file": "Actions/Model Schema Editing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/Model Schema Editing.md"
+                "file": "Actions/Model Schema Editing.md"
               }
             }
           }
@@ -225,13 +225,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "724fdecb9476981b",
+  "active": "863fd359b6228387",
   "lastOpenFiles": [
-    "Model Data Editing.md",
+    "Actions/Model Data Editing.md",
     "Definitions/Array Field.md",
     "Definitions/Object Field.md",
     "Definitions/Complex Fields.md",
-    "Definitions/Model Schema Editing.md",
+    "Actions/Model Schema Editing.md",
     "Definitions/Model Schema.md",
     "Definitions/Model Data Record.md",
     "Canvas.canvas",
@@ -244,7 +244,7 @@
     "Definitions/Simple Fields.md",
     "Definitions/Field Types.md",
     "Definitions",
-    "AI",
+    "Actions",
     "Expectations",
     "Schema"
   ]
