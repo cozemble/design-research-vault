@@ -1,1 +1,1 @@
-Collection for all [[Model Instance]]s of a [[Model]].
+Collection for all [[Model Data Record]]s of a [[Model]].

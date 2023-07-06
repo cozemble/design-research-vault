@@ -1,1 +1,1 @@
-SIn Airtable, [[Model Schema Editing]] happens at the same place as [[Model Data Editing]]. In early user test of Cozemble, no-code developers expected the same behaviour.
+In Airtable, [[Model Schema Editing]] happens at the same place as [[Model Data Editing]]. In early user test of Cozemble, no-code developers expected the same behaviour.
