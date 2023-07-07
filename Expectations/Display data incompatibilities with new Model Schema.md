@@ -1,0 +1,1 @@
+When the [[Model Schema]] changes, display incompatibilities on [[Model Data]] with the new schema.

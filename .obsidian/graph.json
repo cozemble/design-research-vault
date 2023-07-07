@@ -20,9 +20,16 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:Reviews",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 14.2631578947368,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224439,
+  "scale": 0.7132754626224469,
   "close": true
 }

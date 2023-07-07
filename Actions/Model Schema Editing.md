@@ -1,1 +1,0 @@
-[[Model Schema]]s are editable by [[Developer User]]s.

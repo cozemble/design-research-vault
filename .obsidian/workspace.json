@@ -6,31 +6,27 @@
       {
         "id": "bc99f93f7507e1f4",
         "type": "tabs",
-        "dimension": 74.34920634920636,
+        "dimension": 82.47619047619048,
         "children": [
           {
-            "id": "95d231e77701f43c",
+            "id": "0af4d0730c28826c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actions/Model Schema Editing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "2d7b6faebdf45f5f",
+            "id": "8e2f5f67d5872dcf",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Canvas.canvas",
                 "viewState": {
-                  "x": 881.4194308660216,
-                  "y": 315.83764587651615,
-                  "zoom": -1.3482775582259166
+                  "x": 337.5,
+                  "y": 942.2730093071356,
+                  "zoom": -1.6764858593813823
                 }
               }
             }
@@ -41,7 +37,7 @@
       {
         "id": "b52b87536f638321",
         "type": "tabs",
-        "dimension": 25.650793650793652,
+        "dimension": 17.523809523809526,
         "children": [
           {
             "id": "bf088ca66da116eb",
@@ -75,6 +71,13 @@
                         "a": 1,
                         "rgb": 14725458
                       }
+                    },
+                    {
+                      "query": "path:Reviews",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
                     }
                   ],
                   "collapse-display": false,
@@ -88,7 +91,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224427,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -220,12 +223,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d7b6faebdf45f5f",
+  "active": "8e2f5f67d5872dcf",
   "lastOpenFiles": [
-    "Actions/Model Schema Editing.md",
-    "Components",
-    "Actions/Model Data Editing.md",
+    "Reviews/Editing Nested Field Schemas in Data View is Too Complex.md",
+    "Expectations/Can Edit Schema in Data View.md",
+    "Reviews",
+    "Expectations/Display data incompatibilities with new Model Schema.md",
+    "Expectations/Display changes on editing Model Schema.md",
+    "Expectations/Display Changes on Editing Data Record.md",
     "Canvas.canvas",
+    "Field - Create.md",
+    "Simple Field - Create.md",
+    "Actions/Field Actions.md",
+    "Actions/Model Actions.md",
+    "Actions/Model Schema Actions.md",
+    "README.md",
+    "Actions",
+    "Actions/Simple Field - Edit.md",
+    "Actions/Model Schema - Edit Field.md",
+    "Actions/Model Schema - Add Field.md",
+    "Model Schema Field Actions.md",
+    "Actions/Model Data Actions.md",
+    "Untitled.canvas",
+    "templates/Core.md",
+    "Core/Untitled.md",
+    "templates",
+    "Components",
     "Custom Simple Component.md",
     "Core/Field.md",
     "Core/Field Classes.md",
@@ -234,14 +257,6 @@
     "Core/Complex Field Types.md",
     "Core/Complex Fields.md",
     "Core/Model.md",
-    "Core/Model Data.md",
-    "Core/Model Data Record.md",
-    "Core/Model Schema.md",
-    "Core/Simple Field Types.md",
-    "Core/Simple Fields.md",
-    "Expectations/Can Edit Schema in Data View.md",
-    "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
-    "README.md",
     "design-research",
     "Core",
     "Actions",

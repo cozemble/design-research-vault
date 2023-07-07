@@ -1,0 +1,1 @@
+On editing [[Model Schema]], display changes made to the model.
