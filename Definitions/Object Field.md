@@ -1,3 +1,4 @@
 A field that contains named fields of:
-- ![[Simple Fields]]
-- ![[Complex Fields]]
+
+1. ![[Simple Fields]]
+2. ![[Complex Fields]]

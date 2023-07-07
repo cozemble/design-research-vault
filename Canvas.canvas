@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"1d2b758ad4097c02","x":-240,"y":-280,"width":720,"height":760,"type":"file","file":"Definitions/Field Classes.md"}
+		{"type":"file","file":"Definitions/Field Classes.md","id":"1d2b758ad4097c02","x":-240,"y":-280,"width":740,"height":800}
 	],
 	"edges":[]
 }

@@ -1,1 +1,1 @@
-An array of items that each of them is an [[Object Field]]
+An array of items that each of them is an instance of one [[Object Field]]
