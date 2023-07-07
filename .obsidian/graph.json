@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Definitions",
+      "query": "path:Core",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -32,6 +32,6 @@
   "repelStrength": 14.2631578947368,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224436,
+  "scale": 0.7132754626224439,
   "close": true
 }

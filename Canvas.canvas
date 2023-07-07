@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"type":"file","file":"Definitions/Model.md","id":"9ff84aec2253277a","x":-400,"y":-760,"width":400,"height":280},
-		{"type":"file","file":"Definitions/Field.md","id":"81d6eb0df771921b","x":660,"y":220,"width":400,"height":340},
-		{"type":"file","file":"Definitions/Field Classes.md","id":"f901af7825397dc0","x":660,"y":640,"width":400,"height":160},
-		{"type":"file","file":"Definitions/Object Field.md","id":"07525d24423896eb","x":1160,"y":1680,"width":400,"height":227},
-		{"type":"file","file":"Definitions/Model Schema.md","id":"f828ab324d75c081","x":0,"y":-160,"width":510,"height":293},
-		{"type":"file","file":"Definitions/Array Field.md","id":"feb960adc0ab16a3","x":1640,"y":1680,"width":400,"height":340},
-		{"type":"file","file":"Definitions/Simple Field Types.md","id":"2915b5b433a37252","x":660,"y":1360,"width":400,"height":300},
-		{"type":"file","file":"Definitions/Complex Field Types.md","id":"c10b81cb0b1701d8","x":1160,"y":1360,"width":400,"height":180},
-		{"type":"file","file":"Definitions/Complex Fields.md","id":"c43d8866ea2c8ecf","x":1160,"y":920,"width":400,"height":326},
-		{"type":"file","file":"Definitions/Simple Fields.md","id":"4f282cc03fc60434","x":660,"y":920,"width":400,"height":326}
+		{"type":"file","file":"Core/Model.md","id":"9ff84aec2253277a","x":-400,"y":-760,"width":400,"height":280},
+		{"type":"file","file":"Core/Field.md","id":"81d6eb0df771921b","x":660,"y":220,"width":400,"height":340},
+		{"type":"file","file":"Core/Field Classes.md","id":"f901af7825397dc0","x":660,"y":640,"width":400,"height":160},
+		{"type":"file","file":"Core/Object Field.md","id":"07525d24423896eb","x":1160,"y":1680,"width":400,"height":227},
+		{"type":"file","file":"Core/Model Schema.md","id":"f828ab324d75c081","x":0,"y":-160,"width":510,"height":293},
+		{"type":"file","file":"Core/Array Field.md","id":"feb960adc0ab16a3","x":1640,"y":1680,"width":400,"height":340},
+		{"type":"file","file":"Core/Simple Field Types.md","id":"2915b5b433a37252","x":660,"y":1360,"width":400,"height":300},
+		{"type":"file","file":"Core/Complex Field Types.md","id":"c10b81cb0b1701d8","x":1160,"y":1360,"width":400,"height":180},
+		{"type":"file","file":"Core/Complex Fields.md","id":"c43d8866ea2c8ecf","x":1160,"y":920,"width":400,"height":326},
+		{"type":"file","file":"Core/Simple Fields.md","id":"4f282cc03fc60434","x":660,"y":920,"width":400,"height":326}
 	],
 	"edges":[
 		{"id":"671371fbf4da6444","fromNode":"81d6eb0df771921b","fromSide":"bottom","toNode":"f901af7825397dc0","toSide":"top"},

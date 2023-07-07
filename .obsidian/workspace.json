@@ -12,8 +12,12 @@
             "id": "95d231e77701f43c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Actions/Model Schema Editing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -24,14 +28,15 @@
               "state": {
                 "file": "Canvas.canvas",
                 "viewState": {
-                  "x": 791.9921411031261,
-                  "y": 774.3668412236743,
-                  "zoom": -1.6816108915592498
+                  "x": 881.4194308660216,
+                  "y": 315.83764587651615,
+                  "zoom": -1.3482775582259166
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b52b87536f638321",
@@ -44,6 +49,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Canvas.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -57,7 +63,7 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "path:Definitions",
+                      "query": "path:Core",
                       "color": {
                         "a": 1,
                         "rgb": 14701138
@@ -82,7 +88,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224427,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -153,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Canvas.canvas"
+              }
             }
           }
         ]
@@ -210,29 +220,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95d231e77701f43c",
+  "active": "2d7b6faebdf45f5f",
   "lastOpenFiles": [
+    "Actions/Model Schema Editing.md",
+    "Components",
+    "Actions/Model Data Editing.md",
     "Canvas.canvas",
     "Custom Simple Component.md",
-    "Definitions/Field.md",
-    "Definitions/Field Classes.md",
-    "Definitions/Array Field.md",
-    "Definitions/Object Field.md",
-    "Definitions/Complex Field Types.md",
-    "Definitions/Complex Fields.md",
-    "Definitions/Model.md",
-    "Definitions/Model Data.md",
-    "Definitions/Model Data Record.md",
-    "Definitions/Model Schema.md",
-    "Definitions/Simple Field Types.md",
-    "Definitions/Simple Fields.md",
-    "Actions/Model Data Editing.md",
-    "Actions/Model Schema Editing.md",
+    "Core/Field.md",
+    "Core/Field Classes.md",
+    "Core/Array Field.md",
+    "Core/Object Field.md",
+    "Core/Complex Field Types.md",
+    "Core/Complex Fields.md",
+    "Core/Model.md",
+    "Core/Model Data.md",
+    "Core/Model Data Record.md",
+    "Core/Model Schema.md",
+    "Core/Simple Field Types.md",
+    "Core/Simple Fields.md",
     "Expectations/Can Edit Schema in Data View.md",
     "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
     "README.md",
     "design-research",
-    "Definitions",
+    "Core",
     "Actions",
     "Expectations",
     "Schema"
