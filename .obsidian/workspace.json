@@ -6,7 +6,7 @@
       {
         "id": "bc99f93f7507e1f4",
         "type": "tabs",
-        "dimension": 61.01587301587301,
+        "dimension": 86.34920634920636,
         "children": [
           {
             "id": "ffd5e42df0d413f7",
@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Complex Fields.md",
+                "file": "Definitions/Model Schema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6d9fff5fe3bbd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Field.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,23 +41,63 @@
             }
           },
           {
-            "id": "9e26a459f53d13ca",
+            "id": "0c6dc4481662be40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definitions/Simple Fields.md",
+                "file": "Definitions/Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c536e077a976367",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": 1217.5016135126473,
+                  "y": 944.1630420011888,
+                  "zoom": -1.3333333333333333
+                }
+              }
+            }
+          },
+          {
+            "id": "57a5db219b385ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Array Field.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc7522ddd4efa264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Field Classes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "b52b87536f638321",
         "type": "tabs",
-        "dimension": 38.98412698412698,
+        "dimension": 13.65079365079365,
         "children": [
           {
             "id": "bf088ca66da116eb",
@@ -53,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Definitions/Complex Fields.md",
+                "file": "Canvas.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definitions/Complex Fields.md",
+                "file": "Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definitions/Complex Fields.md",
+                "file": "Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definitions/Complex Fields.md"
+                "file": "Canvas.canvas"
               }
             }
           }
@@ -224,24 +276,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffd5e42df0d413f7",
+  "active": "7c536e077a976367",
   "lastOpenFiles": [
-    "Definitions/Simple Fields.md",
-    "Definitions/Complex Fields.md",
+    "Definitions/Array Field.md",
     "Definitions/Complex Field Types.md",
+    "Definitions/Complex Fields.md",
+    "Definitions/Field.md",
+    "Definitions/Field Classes.md",
+    "Definitions/Model.md",
+    "Definitions/Model Data.md",
+    "Definitions/Model Data Record.md",
+    "Definitions/Model Schema.md",
+    "Definitions/Object Field.md",
+    "Definitions/Simple Field Types.md",
+    "Definitions/Simple Fields.md",
+    "Canvas.canvas",
     "Actions/Model Data Editing.md",
     "Actions/Model Schema Editing.md",
-    "Definitions/Simple Field Types.md",
     "Expectations/Can Edit Schema in Data View.md",
     "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
-    "Definitions/Object Field.md",
-    "Definitions/Model Schema.md",
-    "Definitions/Model Data Record.md",
-    "Definitions/Model Data.md",
-    "Definitions/Model.md",
-    "Definitions/Field Classes.md",
-    "Definitions/Array Field.md",
-    "Canvas.canvas",
     "README.md",
     "design-research",
     "Definitions",

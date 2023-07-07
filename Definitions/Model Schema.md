@@ -1,7 +1,5 @@
-A schema that has multiple fields in different types. Editable by [[Developer User]]s.
+A schema that has multiple fields in different types.
 
-# Fields
-![[Field Classes]]
-
-# Editing
-![[Model Schema Editing]]
+## Properties
+1. Name
+2. Multiple [[Field]]s

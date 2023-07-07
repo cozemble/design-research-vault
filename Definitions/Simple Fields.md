@@ -1,6 +1,6 @@
 Field that can be represented as a single cell in a row, without compromising the accessibility.
 
-# Properties:
+## Properties:
 1. Name
 2. is required
 3. is unique

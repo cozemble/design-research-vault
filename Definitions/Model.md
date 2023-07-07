@@ -1,1 +1,5 @@
-An entity defined by the user that has a [[Model Schema]] for definition and a [[Model Data]].
+An entity defined by the user.
+
+## Properties
+- [[Model Schema]]
+- [[Model Data]]

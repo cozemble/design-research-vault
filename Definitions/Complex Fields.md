@@ -1,6 +1,6 @@
 Fields that have multiple [[Simple Fields]] or other [[Complex Fields]].
 
-# Properties:
+## Properties:
 1. Name
 2. is required
 3. is unique
