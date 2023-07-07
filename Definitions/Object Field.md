@@ -1,4 +1,4 @@
-A field that contains named fields of:
+A field that is also a schema itself.
 
-1. [[Simple Fields]]
-2. [[Complex Fields]]
+## Properties
+1. [[Field]]s

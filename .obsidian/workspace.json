@@ -6,32 +6,8 @@
       {
         "id": "bc99f93f7507e1f4",
         "type": "tabs",
-        "dimension": 86.34920634920636,
+        "dimension": 74.34920634920636,
         "children": [
-          {
-            "id": "ffd5e42df0d413f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Model Schema.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6d9fff5fe3bbd00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "95d231e77701f43c",
             "type": "leaf",
@@ -41,63 +17,26 @@
             }
           },
           {
-            "id": "0c6dc4481662be40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c536e077a976367",
+            "id": "2d7b6faebdf45f5f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Canvas.canvas",
                 "viewState": {
-                  "x": 1217.5016135126473,
-                  "y": 944.1630420011888,
-                  "zoom": -1.3333333333333333
+                  "x": 791.9921411031261,
+                  "y": 774.3668412236743,
+                  "zoom": -1.6816108915592498
                 }
               }
             }
-          },
-          {
-            "id": "57a5db219b385ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Array Field.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc7522ddd4efa264",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Definitions/Field Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "b52b87536f638321",
         "type": "tabs",
-        "dimension": 13.65079365079365,
+        "dimension": 25.650793650793652,
         "children": [
           {
             "id": "bf088ca66da116eb",
@@ -105,7 +44,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,9 +190,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Canvas.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -276,21 +210,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c536e077a976367",
+  "active": "95d231e77701f43c",
   "lastOpenFiles": [
-    "Definitions/Array Field.md",
-    "Definitions/Complex Field Types.md",
-    "Definitions/Complex Fields.md",
+    "Canvas.canvas",
+    "Custom Simple Component.md",
     "Definitions/Field.md",
     "Definitions/Field Classes.md",
+    "Definitions/Array Field.md",
+    "Definitions/Object Field.md",
+    "Definitions/Complex Field Types.md",
+    "Definitions/Complex Fields.md",
     "Definitions/Model.md",
     "Definitions/Model Data.md",
     "Definitions/Model Data Record.md",
     "Definitions/Model Schema.md",
-    "Definitions/Object Field.md",
     "Definitions/Simple Field Types.md",
     "Definitions/Simple Fields.md",
-    "Canvas.canvas",
     "Actions/Model Data Editing.md",
     "Actions/Model Schema Editing.md",
     "Expectations/Can Edit Schema in Data View.md",
