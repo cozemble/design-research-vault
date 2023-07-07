@@ -1,5 +1,9 @@
 Fields that have multiple [[Simple Fields]] or other [[Complex Fields]].
 
-## Types:
-- [[Object Field]]
-- [[Array Field]]
+# Properties:
+1. Name
+2. is required
+3. is unique
+4. [[Custom Validation]]
+5. [[Complex Field Types]]
+6. [[Custom Complex Component]]

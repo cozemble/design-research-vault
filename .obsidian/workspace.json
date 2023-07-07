@@ -9,7 +9,27 @@
         "dimension": 61.01587301587301,
         "children": [
           {
-            "id": "724fdecb9476981b",
+            "id": "ffd5e42df0d413f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definitions/Complex Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95d231e77701f43c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e26a459f53d13ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,29 +39,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ffd5e42df0d413f7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8737aa47bbf91c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b52b87536f638321",
@@ -54,7 +53,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
+                "file": "Definitions/Complex Fields.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -92,7 +91,7 @@
                   "repelStrength": 13.4736842105263,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224425,
+                  "scale": 0.7132754626224427,
                   "close": true
                 }
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
+                "file": "Definitions/Complex Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
+                "file": "Definitions/Complex Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md"
+                "file": "Definitions/Complex Fields.md"
               }
             }
           }
@@ -225,11 +224,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8737aa47bbf91c0f",
+  "active": "ffd5e42df0d413f7",
   "lastOpenFiles": [
-    "Expectations/Can Edit Schema in Data View.md",
     "Definitions/Simple Fields.md",
     "Definitions/Complex Fields.md",
+    "Definitions/Complex Field Types.md",
+    "Actions/Model Data Editing.md",
+    "Actions/Model Schema Editing.md",
+    "Definitions/Simple Field Types.md",
+    "Expectations/Can Edit Schema in Data View.md",
+    "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
     "Definitions/Object Field.md",
     "Definitions/Model Schema.md",
     "Definitions/Model Data Record.md",
@@ -238,11 +242,8 @@
     "Definitions/Field Classes.md",
     "Definitions/Array Field.md",
     "Canvas.canvas",
-    "Actions/Model Schema Editing.md",
-    "Actions/Model Data Editing.md",
     "README.md",
     "design-research",
-    "Expectations/Editing Nested Field Schemas in Data View is Too Complex.md",
     "Definitions",
     "Actions",
     "Expectations",

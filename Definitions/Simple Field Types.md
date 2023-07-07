@@ -1,0 +1,6 @@
+1. [[String Field]]
+2. [[Number Field]]
+3. [[Date Field]]
+4. [[Attachment Field]]
+5. [[Reference Field]]
+6. [[Custom Simple Field]]
