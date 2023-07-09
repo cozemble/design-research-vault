@@ -4,20 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "bc99f93f7507e1f4",
+        "id": "b52b87536f638321",
         "type": "tabs",
-        "dimension": 82.47619047619048,
+        "dimension": 81.15482233502537,
         "children": [
           {
-            "id": "0af4d0730c28826c",
+            "id": "96a91732ae07419b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Canvas.canvas",
+                "viewState": {
+                  "x": 813.7761116856256,
+                  "y": 482.56022218066096,
+                  "zoom": -1.6764858593813823
+                }
+              }
             }
           },
           {
-            "id": "f31a74bbf26a93d0",
+            "id": "bf8e2ce5ce0ecaa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +39,12 @@
         "currentTab": 1
       },
       {
-        "id": "b52b87536f638321",
+        "id": "70ebff6ac1f83b90",
         "type": "tabs",
-        "dimension": 17.523809523809526,
+        "dimension": 18.845177664974617,
         "children": [
           {
-            "id": "bf088ca66da116eb",
+            "id": "db4841d395de4c1d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -45,56 +52,27 @@
                 "file": "CHANGELOG.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
+                  "search": "-file:CHANGELOG",
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:Core",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:Expectations",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "path:Reviews",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "path:Features",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13057172
-                      }
-                    }
-                  ],
-                  "collapse-display": false,
-                  "showArrow": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 13.4736842105263,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224427,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -236,16 +214,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f31a74bbf26a93d0",
+  "active": "bf8e2ce5ce0ecaa4",
   "lastOpenFiles": [
-    "Features/Automations.md",
     "Features/AI Support.md",
     "CHANGELOG.md",
+    "Canvas.canvas",
     "README.md",
+    "Features/Automations.md",
     "Context/spacesLastSync.log",
     "Context",
     "Features",
-    "Canvas.canvas",
     "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
     "Expectations/Can Edit Schema in Data View.md",
     "Feedbacks",
@@ -272,7 +250,6 @@
     "Core/Field.md",
     "Core/Field Classes.md",
     "Core/Array Field.md",
-    "Core/Object Field.md",
     "design-research",
     "Core",
     "Actions"

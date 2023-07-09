@@ -35,7 +35,9 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "cozemble-design-research": []
+    "cozemble-design-research": [
+      "Features"
+    ]
   },
   "expandedSpaces": [
     "/",
@@ -70,7 +72,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1688918613540,
+  "spacesAutoBackupLast": 1688919340614,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
