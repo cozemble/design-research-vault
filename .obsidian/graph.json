@@ -22,10 +22,17 @@
       }
     },
     {
-      "query": "path:Reviews",
+      "query": "path:Feedbacks",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Features",
+      "color": {
+        "a": 1,
+        "rgb": 13122709
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 14.2631578947368,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224469,
+  "scale": 0.508761885579263,
   "close": true
 }

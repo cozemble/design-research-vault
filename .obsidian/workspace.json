@@ -17,17 +17,14 @@
             }
           },
           {
-            "id": "8e2f5f67d5872dcf",
+            "id": "f31a74bbf26a93d0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas.canvas",
-                "viewState": {
-                  "x": 337.5,
-                  "y": 942.2730093071356,
-                  "zoom": -1.6764858593813823
-                }
+                "file": "CHANGELOG.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -45,7 +42,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Canvas.canvas",
+                "file": "CHANGELOG.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -77,6 +74,13 @@
                       "color": {
                         "a": 1,
                         "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "path:Features",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13057172
                       }
                     }
                   ],
@@ -141,8 +145,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c4ddbb5640524b0c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas.canvas",
+                "file": "CHANGELOG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas.canvas",
+                "file": "CHANGELOG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas.canvas"
+                "file": "CHANGELOG.md"
               }
             }
           }
@@ -223,21 +236,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e2f5f67d5872dcf",
+  "active": "f31a74bbf26a93d0",
   "lastOpenFiles": [
-    "Reviews/Editing Nested Field Schemas in Data View is Too Complex.md",
+    "Features/Automations.md",
+    "Features/AI Support.md",
+    "CHANGELOG.md",
+    "README.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Features",
+    "Canvas.canvas",
+    "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
     "Expectations/Can Edit Schema in Data View.md",
-    "Reviews",
+    "Feedbacks",
     "Expectations/Display data incompatibilities with new Model Schema.md",
     "Expectations/Display changes on editing Model Schema.md",
     "Expectations/Display Changes on Editing Data Record.md",
-    "Canvas.canvas",
     "Field - Create.md",
     "Simple Field - Create.md",
     "Actions/Field Actions.md",
     "Actions/Model Actions.md",
     "Actions/Model Schema Actions.md",
-    "README.md",
     "Actions",
     "Actions/Simple Field - Edit.md",
     "Actions/Model Schema - Edit Field.md",
@@ -254,13 +273,8 @@
     "Core/Field Classes.md",
     "Core/Array Field.md",
     "Core/Object Field.md",
-    "Core/Complex Field Types.md",
-    "Core/Complex Fields.md",
-    "Core/Model.md",
     "design-research",
     "Core",
-    "Actions",
-    "Expectations",
-    "Schema"
+    "Actions"
   ]
 }

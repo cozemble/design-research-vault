@@ -1,1 +1,18 @@
-{}
+{
+  "obsidian-editor-shortcuts:moveCursorDown": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-editor-shortcuts:moveCursorUp": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
+}

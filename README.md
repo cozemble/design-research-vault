@@ -1,22 +1,10 @@
-This repository is to solve the complex UX research problem of Cozemble.
-
-# Cozemble
-
-Cozemble is a web app for database development & management. 
-
-## Required Qualities
-- Ease of getting started
-- Flexibility
+This repository is for organizing complex user interface research and planning of Cozemble App.
 
 ---
 
-## Features
-
-### Model Schema
-
-### Model Data
-
-### AI Support
-
-### Automation
+# Folders
+- **Core**: Cozemble core structure definitions.
+- **Features**: Features of the app.
+- **Expectations**: Notes about the expectations from the design.
+- **Feedbacks**: Feedbacks from designers, developers, or users.
 
