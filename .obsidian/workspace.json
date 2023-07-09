@@ -6,7 +6,7 @@
       {
         "id": "b52b87536f638321",
         "type": "tabs",
-        "dimension": 73.39682539682539,
+        "dimension": 85.77777777777777,
         "children": [
           {
             "id": "96a91732ae07419b",
@@ -16,23 +16,19 @@
               "state": {
                 "file": "Canvas.canvas",
                 "viewState": {
-                  "x": -190.82386705439887,
-                  "y": 209.2170450560451,
-                  "zoom": -0.3431525260480492
+                  "x": 396.47833532506786,
+                  "y": 792.2781074011082,
+                  "zoom": -1.343152526048049
                 }
               }
             }
           },
           {
-            "id": "9dd841b948c1ff41",
+            "id": "607eb5d6e2d1b1d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHANGELOG.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -46,14 +42,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f93fa28e5c9aedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "70ebff6ac1f83b90",
         "type": "tabs",
-        "dimension": 26.6031746031746,
+        "dimension": 14.222222222222221,
         "children": [
           {
             "id": "db4841d395de4c1d",
@@ -61,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:CHANGELOG",
@@ -165,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHANGELOG.md"
+                "file": "README.md"
               }
             }
           }
@@ -226,14 +234,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dd841b948c1ff41",
+  "active": "5f93fa28e5c9aedf",
   "lastOpenFiles": [
+    "CHANGELOG.md",
     "Features/AI Support.md",
+    "Canvas.canvas",
     "Features/Automations.md",
     "Features/Users.md",
     "Features/Models.md",
     "Features/Developer Users.md",
-    "Canvas.canvas",
     "Features/Model Data Collections.md",
     "Core/Model Schema.md",
     "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
@@ -243,7 +252,6 @@
     "Core/Model Data.md",
     "Ideas",
     "Untitled.md",
-    "CHANGELOG.md",
     "README.md",
     "Context/spacesLastSync.log",
     "Context",
@@ -260,7 +268,6 @@
     "Actions/Simple Field - Edit.md",
     "Actions/Model Schema - Edit Field.md",
     "Actions/Model Schema - Add Field.md",
-    "Model Schema Field Actions.md",
     "Untitled.canvas",
     "templates",
     "Components",
