@@ -6,17 +6,20 @@
       {
         "id": "b52b87536f638321",
         "type": "tabs",
-        "dimension": 69.67005076142132,
+        "dimension": 72.82539682539682,
         "children": [
           {
             "id": "d883f9884cd3c76a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Feedbacks/Nested fields increase the complexity.md",
-                "mode": "source",
-                "source": false
+                "file": "Analyses/Nested Fields Complexity.canvas",
+                "viewState": {
+                  "x": 740,
+                  "y": 120,
+                  "zoom": -0.7876350389511472
+                }
               }
             }
           }
@@ -25,7 +28,7 @@
       {
         "id": "5c02fbcd4f0dff48",
         "type": "tabs",
-        "dimension": 30.329949238578678,
+        "dimension": 27.174603174603174,
         "children": [
           {
             "id": "1825755f7101f4a1",
@@ -33,7 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Feedbacks/Nested fields increase the complexity.md",
+                "file": "Analyses/Nested Fields Complexity.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feedbacks/Nested fields increase the complexity.md",
+                "file": "Analyses/Nested Fields Complexity.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feedbacks/Nested fields increase the complexity.md",
+                "file": "Analyses/Nested Fields Complexity.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feedbacks/Nested fields increase the complexity.md"
+                "file": "Analyses/Nested Fields Complexity.canvas"
               }
             }
           }
@@ -234,11 +237,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1825755f7101f4a1",
+  "active": "d883f9884cd3c76a",
   "lastOpenFiles": [
     "Feedbacks/Nested fields increase the complexity.md",
-    "Analyses/Nested Fields Complexity.canvas",
     "README.md",
+    "Analyses/Nested Fields Complexity.canvas",
+    "Expectations/Tell user when is it appropriate to use nested fields.md",
+    "Core/Complex Fields.md",
     "Templates/Issue Analysis.canvas",
     "Templates/Test Canvas 1.canvas",
     "Analyses/Untitled.canvas",
@@ -260,7 +265,6 @@
     "Expectations/Expectations.md",
     "Expectations/Untitled.md",
     "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
-    "Expectations/Tell user when is it appropriate to use nested fields.md",
     "Expectations/Allow expanding of nested fields on list view.md",
     "Features/Nested Fields.md",
     "CHANGELOG.md",
@@ -272,7 +276,6 @@
     "Features/Model Data Collections.md",
     "Core/Model Schema.md",
     "Expectations/Display data incompatibilities with new Model Schema.md",
-    "Expectations/Display changes on editing Model Schema.md",
     "Ideas",
     "Context/spacesLastSync.log",
     "Context",
