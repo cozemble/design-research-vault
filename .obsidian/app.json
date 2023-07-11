@@ -2,5 +2,11 @@
   "spellcheckLanguages": [
     "en"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "/Assets",
+  "userIgnoreFilters": [
+    "CHANGELOG",
+    "README"
+  ]
 }

@@ -6,72 +6,32 @@
       {
         "id": "b52b87536f638321",
         "type": "tabs",
-        "dimension": 85.77777777777777,
+        "dimension": 69.67005076142132,
         "children": [
           {
-            "id": "96a91732ae07419b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas.canvas",
-                "viewState": {
-                  "x": 396.47833532506786,
-                  "y": 792.2781074011082,
-                  "zoom": -1.343152526048049
-                }
-              }
-            }
-          },
-          {
-            "id": "607eb5d6e2d1b1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expectations/Tell user when is appropriate to use nested fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f4288c84b07dec3",
+            "id": "73cec656d1c7fbef",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "28e0969dde92c1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "70ebff6ac1f83b90",
+        "id": "5c02fbcd4f0dff48",
         "type": "tabs",
-        "dimension": 14.222222222222221,
+        "dimension": 30.329949238578678,
         "children": [
           {
-            "id": "db4841d395de4c1d",
+            "id": "1825755f7101f4a1",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
                 "options": {
-                  "collapse-filter": false,
-                  "search": "-file:CHANGELOG",
+                  "collapse-filter": true,
+                  "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -82,7 +42,7 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": true,
+                  "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -91,7 +51,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224421,
+                  "scale": 1,
                   "close": true
                 }
               }
@@ -229,21 +189,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f4288c84b07dec3",
+  "active": "73cec656d1c7fbef",
   "lastOpenFiles": [
-    "Expectations/Tell user when is appropriate to use nested fields.md",
+    "Ideas/Make the components clearer to reduce complexity of nested fields.md",
+    "Templates/Idea.md",
+    "Ideas/Disable expand on model data list page.md",
     "Feedbacks/Nested fields increase the complexity.md",
-    "Expectations/Untitled.md",
+    "Features/Features.md",
     "Feedbacks/Feedbacks.md",
+    "Templates",
+    "Assets/Pasted image 20230711165144.png",
+    "Canvas.canvas",
+    "Assets",
+    "Untitled/Untitled.md",
+    "Pasted image 20230711165040.png",
+    "Pasted image 20230711164345.png",
+    "Ideas/.md",
+    "Expectations/Done",
+    "Expectations/Expectations.md",
+    "Expectations/Untitled.md",
+    "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
+    "Expectations/Tell user when is appropriate to use nested fields.md",
     "Expectations/Allow expanding of nested fields on list view.md",
     "Features/Nested Fields.md",
-    "Features/Features.md",
-    "Expectations/Expectations.md",
-    "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
     "README.md",
     "CHANGELOG.md",
     "Features/AI Support.md",
-    "Canvas.canvas",
     "Features/Automations.md",
     "Features/Users.md",
     "Features/Models.md",
@@ -253,21 +224,13 @@
     "Expectations/Display data incompatibilities with new Model Schema.md",
     "Expectations/Display changes on editing Model Schema.md",
     "Core/Model.md",
-    "Core/Model Data.md",
     "Ideas",
-    "Untitled.md",
     "Context/spacesLastSync.log",
     "Context",
     "Features",
-    "Expectations/Can Edit Schema in Data View.md",
     "Feedbacks",
-    "Expectations/Display Changes on Editing Data Record.md",
-    "Field - Create.md",
     "Actions",
     "Untitled.canvas",
-    "templates",
-    "Components",
-    "design-research",
-    "Core"
+    "templates"
   ]
 }
