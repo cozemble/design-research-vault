@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Issue","id":"3979b67622abf9e0","x":-420,"y":-240,"width":240,"height":80,"color":"1"},
+		{"type":"text","text":"# Related","id":"207692e4713a0e3f","x":-420,"y":680,"width":250,"height":80,"color":"5"},
+		{"type":"text","text":"# Ideas","id":"ec3b905ada9b5753","x":520,"y":-240,"width":250,"height":80,"color":"3"}
+	],
+	"edges":[]
+}

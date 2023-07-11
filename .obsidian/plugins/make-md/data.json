@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -36,8 +36,8 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "cozemble-design-research": [
-      "Ideas",
-      "Templates"
+      "Templates",
+      "Analyses"
     ]
   },
   "expandedSpaces": [
@@ -74,7 +74,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689084593677,
+  "spacesAutoBackupLast": 1689086928021,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

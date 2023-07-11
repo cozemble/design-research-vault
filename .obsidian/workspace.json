@@ -9,11 +9,18 @@
         "dimension": 69.67005076142132,
         "children": [
           {
-            "id": "73cec656d1c7fbef",
+            "id": "d883f9884cd3c76a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Analyses/Nested Fields Complexity.canvas",
+                "viewState": {
+                  "x": 740,
+                  "y": 120,
+                  "zoom": -0.8519369045637792
+                }
+              }
             }
           }
         ]
@@ -29,6 +36,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Analyses/Nested Fields Complexity.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -51,7 +59,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.713275462622442,
                   "close": true
                 }
               }
@@ -132,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analyses/Nested Fields Complexity.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Analyses/Nested Fields Complexity.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Analyses/Nested Fields Complexity.canvas"
+              }
             }
           }
         ]
@@ -189,8 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73cec656d1c7fbef",
+  "active": "d883f9884cd3c76a",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/Issue Analysis.canvas",
+    "Analyses/Nested Fields Complexity.canvas",
+    "Templates/Test Canvas 1.canvas",
+    "Analyses/Untitled.canvas",
+    "Analyses",
     "Ideas/Make the components clearer to reduce complexity of nested fields.md",
     "Templates/Idea.md",
     "Ideas/Disable expand on model data list page.md",
@@ -209,10 +227,9 @@
     "Expectations/Expectations.md",
     "Expectations/Untitled.md",
     "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
-    "Expectations/Tell user when is appropriate to use nested fields.md",
+    "Expectations/Tell user when is it appropriate to use nested fields.md",
     "Expectations/Allow expanding of nested fields on list view.md",
     "Features/Nested Fields.md",
-    "README.md",
     "CHANGELOG.md",
     "Features/AI Support.md",
     "Features/Automations.md",
@@ -223,14 +240,12 @@
     "Core/Model Schema.md",
     "Expectations/Display data incompatibilities with new Model Schema.md",
     "Expectations/Display changes on editing Model Schema.md",
-    "Core/Model.md",
     "Ideas",
     "Context/spacesLastSync.log",
     "Context",
     "Features",
     "Feedbacks",
     "Actions",
-    "Untitled.canvas",
-    "templates"
+    "Untitled.canvas"
   ]
 }

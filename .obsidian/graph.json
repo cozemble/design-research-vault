@@ -25,7 +25,7 @@
       "query": "path:Ideas",
       "color": {
         "a": 1,
-        "rgb": 2090419
+        "rgb": 13617446
       }
     },
     {
@@ -39,7 +39,7 @@
       "query": "path:Feedbacks",
       "color": {
         "a": 1,
-        "rgb": 14389545
+        "rgb": 14515234
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 14.2631578947368,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792676,
-  "close": true
+  "scale": 0.508761885579268,
+  "close": false
 }
