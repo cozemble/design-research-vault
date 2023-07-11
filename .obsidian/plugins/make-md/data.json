@@ -35,12 +35,19 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedFolders": {
-    "cozemble-design-research": []
+    "cozemble-design-research": [
+      "Expectations",
+      "Expectations",
+      "Features",
+      "Feedbacks",
+      "Ideas"
+    ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "cozemble-design-research"
+    "cozemble-design-research",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -70,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1688920783839,
+  "spacesAutoBackupLast": 1689081575877,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

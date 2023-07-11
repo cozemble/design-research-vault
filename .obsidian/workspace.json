@@ -27,6 +27,18 @@
             "id": "607eb5d6e2d1b1d8",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expectations/Tell user when is appropriate to use nested fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f4288c84b07dec3",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -42,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f93fa28e5c9aedf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "70ebff6ac1f83b90",
@@ -69,7 +69,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:CHANGELOG",
@@ -173,7 +172,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +188,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +209,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -234,8 +229,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f93fa28e5c9aedf",
+  "active": "3f4288c84b07dec3",
   "lastOpenFiles": [
+    "Expectations/Tell user when is appropriate to use nested fields.md",
+    "Feedbacks/Nested fields increase the complexity.md",
+    "Expectations/Untitled.md",
+    "Feedbacks/Feedbacks.md",
+    "Expectations/Allow expanding of nested fields on list view.md",
+    "Features/Nested Fields.md",
+    "Features/Features.md",
+    "Expectations/Expectations.md",
+    "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
+    "README.md",
     "CHANGELOG.md",
     "Features/AI Support.md",
     "Canvas.canvas",
@@ -245,14 +250,12 @@
     "Features/Developer Users.md",
     "Features/Model Data Collections.md",
     "Core/Model Schema.md",
-    "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
     "Expectations/Display data incompatibilities with new Model Schema.md",
     "Expectations/Display changes on editing Model Schema.md",
     "Core/Model.md",
     "Core/Model Data.md",
     "Ideas",
     "Untitled.md",
-    "README.md",
     "Context/spacesLastSync.log",
     "Context",
     "Features",
@@ -260,14 +263,7 @@
     "Feedbacks",
     "Expectations/Display Changes on Editing Data Record.md",
     "Field - Create.md",
-    "Simple Field - Create.md",
-    "Actions/Field Actions.md",
-    "Actions/Model Actions.md",
-    "Actions/Model Schema Actions.md",
     "Actions",
-    "Actions/Simple Field - Edit.md",
-    "Actions/Model Schema - Edit Field.md",
-    "Actions/Model Schema - Add Field.md",
     "Untitled.canvas",
     "templates",
     "Components",
