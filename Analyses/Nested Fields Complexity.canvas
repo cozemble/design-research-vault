@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"type":"file","file":"Feedbacks/Nested fields increase the complexity.md","id":"7e623af7c32abf9b","x":-160,"y":-360,"width":540,"height":480,"color":"6"},
+		{"type":"file","file":"Feedbacks/Nested fields increase the complexity.md","id":"7e623af7c32abf9b","x":-160,"y":-360,"width":560,"height":480,"color":"6"},
+		{"type":"file","file":"Ideas/Disable expand on model data list page.md","id":"2111e9996ce5692b","x":560,"y":-360,"width":453,"height":242},
 		{"type":"text","text":"# Ideas:","id":"ecc76cce20284e6f","x":560,"y":-560,"width":250,"height":80,"color":"3"},
 		{"type":"file","file":"Ideas/Make the components clearer to reduce complexity of nested fields.md","id":"063d367df86310b3","x":1120,"y":-360,"width":520,"height":242},
 		{"type":"text","text":"# Related:","id":"3dc7da6283273cd6","x":-160,"y":320,"width":270,"height":80,"color":"5"},
 		{"type":"file","file":"Core/Complex Fields.md","id":"205db9b6b62b3579","x":-160,"y":520,"width":360,"height":260},
 		{"type":"file","file":"Expectations/Tell user when is it appropriate to use nested fields.md","id":"9f7da4cdf000244c","x":285,"y":520,"width":400,"height":280},
-		{"type":"text","text":"# Issue:","id":"a0025ac0da1fb7de","x":-160,"y":-560,"width":248,"height":92,"color":"1"},
-		{"type":"file","file":"Ideas/Disable expand on model data list page.md","id":"2111e9996ce5692b","x":560,"y":-360,"width":453,"height":242}
+		{"type":"text","text":"# Issue:","id":"a0025ac0da1fb7de","x":-160,"y":-560,"width":248,"height":92,"color":"1"}
 	],
 	"edges":[
 		{"id":"ce67833eb87e16b7","fromNode":"ecc76cce20284e6f","fromSide":"bottom","toNode":"2111e9996ce5692b","toSide":"top"},

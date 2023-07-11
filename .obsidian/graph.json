@@ -22,13 +22,6 @@
       }
     },
     {
-      "query": "path:Ideas",
-      "color": {
-        "a": 1,
-        "rgb": 13617446
-      }
-    },
-    {
       "query": "path:Expectations",
       "color": {
         "a": 1,
@@ -40,6 +33,13 @@
       "color": {
         "a": 1,
         "rgb": 14515234
+      }
+    },
+    {
+      "query": "path:Ideas",
+      "color": {
+        "a": 1,
+        "rgb": 13617446
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 14.2631578947368,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.508761885579268,
-  "close": false
+  "scale": 0.5087618855792685,
+  "close": true
 }

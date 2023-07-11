@@ -7,6 +7,7 @@
   "attachmentFolderPath": "/Assets",
   "userIgnoreFilters": [
     "CHANGELOG",
-    "README"
+    "README",
+    "Templates/"
   ]
 }

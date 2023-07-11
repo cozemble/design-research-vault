@@ -12,14 +12,11 @@
             "id": "d883f9884cd3c76a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
-                "viewState": {
-                  "x": 740,
-                  "y": 120,
-                  "zoom": -0.8519369045637792
-                }
+                "file": "Feedbacks/Nested fields increase the complexity.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
+                "file": "Feedbacks/Nested fields increase the complexity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -47,8 +44,44 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:Core",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:Features",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13057172
+                      }
+                    },
+                    {
+                      "query": "path:Expectations",
+                      "color": {
+                        "a": 1,
+                        "rgb": 7517739
+                      }
+                    },
+                    {
+                      "query": "path:Feedbacks",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14514472
+                      }
+                    },
+                    {
+                      "query": "path:Ideas",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13682480
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -140,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
+                "file": "Feedbacks/Nested fields increase the complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
+                "file": "Feedbacks/Nested fields increase the complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas"
+                "file": "Feedbacks/Nested fields increase the complexity.md"
               }
             }
           }
@@ -201,18 +234,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d883f9884cd3c76a",
+  "active": "1825755f7101f4a1",
   "lastOpenFiles": [
+    "Feedbacks/Nested fields increase the complexity.md",
+    "Analyses/Nested Fields Complexity.canvas",
     "README.md",
     "Templates/Issue Analysis.canvas",
-    "Analyses/Nested Fields Complexity.canvas",
     "Templates/Test Canvas 1.canvas",
     "Analyses/Untitled.canvas",
     "Analyses",
     "Ideas/Make the components clearer to reduce complexity of nested fields.md",
     "Templates/Idea.md",
     "Ideas/Disable expand on model data list page.md",
-    "Feedbacks/Nested fields increase the complexity.md",
     "Features/Features.md",
     "Feedbacks/Feedbacks.md",
     "Templates",
