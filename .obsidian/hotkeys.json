@@ -1,17 +1,83 @@
 {
+  "app:go-back": [
+    {
+      "modifiers": ["Alt"],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": ["Alt"],
+      "key": "ArrowRight"
+    }
+  ],
+  "window:zoom-out": [
+    {
+      "modifiers": ["Mod"],
+      "key": "-"
+    }
+  ],
+  "window:zoom-in": [
+    {
+      "modifiers": ["Mod"],
+      "key": "+"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": ["Mod"],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": ["Mod"],
+      "key": "ArrowDown"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": ["Mod"],
+      "key": "F4"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "P"
+    },
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:open-help": [
+    {
+      "modifiers": ["Mod"],
+      "key": "F1"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": ["Mod", "Shift"],
+      "key": "F"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": ["Mod"],
+      "key": "P"
+    }
+  ],
   "obsidian-editor-shortcuts:moveCursorDown": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "ArrowDown"
     }
   ],
   "obsidian-editor-shortcuts:moveCursorUp": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": ["Mod"],
       "key": "ArrowUp"
     }
   ]

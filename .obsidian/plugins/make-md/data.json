@@ -33,10 +33,13 @@
   "folderNoteDefaultView": true,
   "sidebarTabs": true,
   "showRibbon": true,
-  "deleteFileOption": "trash",
+  "deleteFileOption": "system-trash",
   "expandedFolders": {
     "cozemble-design-research": [
-      "Analyses"
+      "Templates",
+      "Design Principles",
+      "Design Principles",
+      "Goals"
     ]
   },
   "expandedSpaces": [
@@ -74,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689088276718,
+  "spacesAutoBackupLast": 1689342542864,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
