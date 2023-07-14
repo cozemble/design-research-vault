@@ -11,7 +11,7 @@
 		{"type":"file","file":"Core/Object Field.md","id":"07525d24423896eb","x":755,"y":1710,"width":400,"height":227},
 		{"type":"file","file":"Core/Array Field.md","id":"feb960adc0ab16a3","x":1235,"y":1710,"width":400,"height":340},
 		{"type":"file","file":"Core/Simple Fields.md","id":"4f282cc03fc60434","x":255,"y":950,"width":400,"height":326},
-		{"type":"file","file":"Core/Field.md","id":"81d6eb0df771921b","x":255,"y":250,"width":400,"height":340}
+		{"type":"file","file":"Core/Field.md","id":"81d6eb0df771921b","x":255,"y":250,"width":400,"height":330}
 	],
 	"edges":[
 		{"id":"671371fbf4da6444","fromNode":"81d6eb0df771921b","fromSide":"bottom","toNode":"f901af7825397dc0","toSide":"top"},

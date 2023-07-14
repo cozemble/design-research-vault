@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
+                "file": "Core/Core Schema.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
+                "file": "Core/Core Schema.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas"
+                "file": "Core/Core Schema.canvas"
               }
             }
           }
@@ -239,6 +239,10 @@
   },
   "active": "d883f9884cd3c76a",
   "lastOpenFiles": [
+    "Core/README.md",
+    "Core/Core Schema.canvas",
+    "Core/Model Schema.md",
+    "Core/Test Property.md",
     "Feedbacks/Nested fields increase the complexity.md",
     "README.md",
     "Analyses/Nested Fields Complexity.canvas",
