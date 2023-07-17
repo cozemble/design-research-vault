@@ -36,13 +36,15 @@
   "deleteFileOption": "system-trash",
   "expandedFolders": {
     "cozemble-design-research": [
-      "Templates",
       "Expectations - README",
       "Expectations - README",
       "Analyses",
+      "Features",
+      "Features",
+      "Expectations",
+      "Feedbacks",
       "Issues",
-      "Issues",
-      "Goals"
+      "Ideas"
     ]
   },
   "expandedSpaces": [
@@ -80,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689596924386,
+  "spacesAutoBackupLast": 1689597301935,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

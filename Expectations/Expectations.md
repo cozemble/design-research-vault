@@ -2,7 +2,7 @@
 sticker: ""
 ---
 # Expectations
-Expectations are nice-to-have details in the app that are not identifiable as a details of a feature. Based on _Goals_ and relates to _Features_. They are not so strict like _Features_.
+Expectations are nice to have details in the app that are not identifiable as a details of a feature. Based on _Goals_ and relates to _Features_. They are not so strict like _Features_.
 
 **Based On:** [[Goals|Goals]],
 **Affected By:** [[Features]], [[Issues - README|Issues]]

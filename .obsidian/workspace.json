@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Goals/Goals Schema.canvas",
+                "file": "Ideas/Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,37 +79,35 @@
             }
           },
           {
-            "id": "60bc53e62851b0f3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Goals/Goals Schema.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": -200,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "79e6d67332bf4f60",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "make-folder-view",
               "state": {
-                "file": "Vault Schema.canvas",
-                "viewState": {
-                  "x": 1032,
-                  "y": 340,
-                  "zoom": -1.1887927524467894
-                }
+                "contextPath": "Ideas"
               }
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1c59902f3fa0ea16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "750e19dc7e172c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals/Goals Schema.canvas",
+                "file": "Ideas/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals/Goals Schema.canvas",
+                "file": "Ideas/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals/Goals Schema.canvas"
+                "file": "Ideas/Ideas.md"
               }
             }
           }
@@ -245,17 +243,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60bc53e62851b0f3",
+  "active": "79e6d67332bf4f60",
   "lastOpenFiles": [
+    "README.md",
+    "Vault Schema.canvas",
+    "Goals/Goals Schema.canvas",
     "Templates/Goal.md",
     "Issues/Nested Fields Complexity.canvas",
     "Core/Core.md",
     "Templates/Note Type Readme.md",
-    "Vault Schema.canvas",
     "Templates/Expectation.md",
     "Templates/Feedback.md",
     "Templates/Issue.md",
-    "README.md",
     "Issues/Analyses.md",
     "Expectations/Expectations.md",
     "Issues/Issues.md",
@@ -278,7 +277,6 @@
     "Features/README.md",
     "Goals/context.mdb",
     "Design Principles/Design Principles Schema.canvas",
-    "Goals/Goals Schema.canvas",
     "Design Principles",
     "Goals",
     "Templates/Issue Analysis.canvas",
