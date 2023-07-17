@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b52b87536f638321",
+        "id": "8068207942361825",
         "type": "tabs",
-        "dimension": 72.82539682539682,
-        "children": [
-          {
-            "id": "d883f9884cd3c76a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
-                "viewState": {
-                  "x": 740,
-                  "y": 120,
-                  "zoom": -0.7876350389511472
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5c02fbcd4f0dff48",
-        "type": "tabs",
-        "dimension": 27.174603174603174,
         "children": [
           {
             "id": "1825755f7101f4a1",
@@ -36,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Analyses/Nested Fields Complexity.canvas",
+                "file": "Goals/Goals Schema.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -85,8 +62,8 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -95,13 +72,44 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.713275462622442,
+                  "scale": 0.7132754626224423,
                   "close": true
                 }
               }
             }
+          },
+          {
+            "id": "60bc53e62851b0f3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Goals/Goals Schema.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": -200,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "79e6d67332bf4f60",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vault Schema.canvas",
+                "viewState": {
+                  "x": 1032,
+                  "y": 340,
+                  "zoom": -1.1887927524467894
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core/Core Schema.canvas",
+                "file": "Goals/Goals Schema.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core/Core Schema.canvas",
+                "file": "Goals/Goals Schema.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core/Core Schema.canvas"
+                "file": "Goals/Goals Schema.canvas"
               }
             }
           }
@@ -229,64 +237,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0e36b212e55d880",
+  "active": "60bc53e62851b0f3",
   "lastOpenFiles": [
-    "Core/README.md",
+    "Templates/Goal.md",
+    "Issues/Nested Fields Complexity.canvas",
+    "Core/Core.md",
+    "Templates/Note Type Readme.md",
     "Vault Schema.canvas",
-    "Core/Core Schema.canvas",
-    "Core/Model Schema.md",
-    "Core/Test Property.md",
-    "Feedbacks/Nested fields increase the complexity.md",
+    "Templates/Expectation.md",
+    "Templates/Feedback.md",
+    "Templates/Issue.md",
     "README.md",
-    "Analyses/Nested Fields Complexity.canvas",
+    "Issues/Analyses.md",
+    "Expectations/Expectations.md",
+    "Issues/Issues.md",
+    "Ideas/Make the components clearer to reduce complexity of nested fields.md",
+    "Templates/Idea.md",
+    "Ideas/Ideas.md",
+    "Templates/Design Principle.md",
+    "Templates/Feature.md",
+    "Feedbacks/Untitled.md",
+    "Feedbacks/Feedbacks.md",
+    "Design Principles/Design Principles.md",
+    "Design Principles/Design Principles.md",
     "Expectations/Tell user when is it appropriate to use nested fields.md",
-    "Core/Complex Fields.md",
+    "Expectations/context.mdb",
+    "Goals/Goals.md",
+    "Features/Features.md",
+    "Expectations/Expectations - README.md",
+    "Core/Core Schema.canvas",
+    "Goals/Satisfy a niche market need.md",
+    "Features/README.md",
+    "Goals/context.mdb",
+    "Design Principles/Design Principles Schema.canvas",
+    "Goals/Goals Schema.canvas",
+    "Design Principles",
+    "Goals",
     "Templates/Issue Analysis.canvas",
     "Templates/Test Canvas 1.canvas",
     "Analyses/Untitled.canvas",
-    "Analyses",
-    "Ideas/Make the components clearer to reduce complexity of nested fields.md",
-    "Templates/Idea.md",
-    "Ideas/Disable expand on model data list page.md",
-    "Features/Features.md",
-    "Feedbacks/Feedbacks.md",
+    "Issues",
     "Templates",
     "Assets/Pasted image 20230711165144.png",
-    "Canvas.canvas",
     "Assets",
-    "Untitled/Untitled.md",
     "Pasted image 20230711165040.png",
     "Pasted image 20230711164345.png",
-    "Ideas/.md",
     "Expectations/Done",
-    "Expectations/Expectations.md",
-    "Expectations/Untitled.md",
-    "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
-    "Expectations/Allow expanding of nested fields on list view.md",
-    "Features/Nested Fields.md",
-    "CHANGELOG.md",
-    "Features/AI Support.md",
-    "Features/Automations.md",
-    "Features/Users.md",
-    "Features/Models.md",
-    "Features/Developer Users.md",
-    "Features/Model Data Collections.md",
-    "Core/Model Schema.md",
-    "Expectations/Display data incompatibilities with new Model Schema.md",
     "Ideas",
-    "Context/spacesLastSync.log",
-    "Context",
-    "Features",
-    "Feedbacks",
-    "Actions",
-    "Untitled.canvas"
+    "Context/spacesLastSync.log"
   ]
 }

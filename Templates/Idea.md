@@ -1,4 +1,7 @@
-idea
+---
+tag: open, closed/accepted, closed/dismissed
+---
+%% description %%
 
-### To help with: 
-![[]]
+%% issues to help with %%
+**To help with:** [[]]

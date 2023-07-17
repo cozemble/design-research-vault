@@ -8,6 +8,15 @@
   "userIgnoreFilters": [
     "CHANGELOG",
     "README",
-    "Templates/"
-  ]
+    "Templates/",
+    "/README/",
+    "Design Principles/Design Principles",
+    "Goals/Goals",
+    "Expectations/Expectations",
+    "Feedbacks/Feedbacks",
+    "Issues/Issues",
+    "Ideas/Ideas",
+    "Features/Features"
+  ],
+  "rightToLeft": false
 }

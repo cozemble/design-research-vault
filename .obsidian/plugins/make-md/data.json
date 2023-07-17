@@ -37,8 +37,11 @@
   "expandedFolders": {
     "cozemble-design-research": [
       "Templates",
-      "Design Principles",
-      "Design Principles",
+      "Expectations - README",
+      "Expectations - README",
+      "Analyses",
+      "Issues",
+      "Issues",
       "Goals"
     ]
   },
@@ -77,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689342542864,
+  "spacesAutoBackupLast": 1689596924386,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
