@@ -50,6 +50,13 @@
       }
     },
     {
+      "query": "path:Issues, tag:#resolved",
+      "color": {
+        "a": 1,
+        "rgb": 4402806
+      }
+    },
+    {
       "query": "path:Issues",
       "color": {
         "a": 1,
@@ -64,7 +71,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.9,
   "nodeSizeMultiplier": 1,

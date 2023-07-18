@@ -8,12 +8,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "7d5d0cff70d45636",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cbd9e1f48b7dad68",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vault Schema.canvas",
+                "viewState": {
+                  "x": 1032,
+                  "y": 340,
+                  "zoom": -1.1887927524467894
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d58070bc5e150f9f",
+        "type": "tabs",
+        "children": [
+          {
             "id": "1825755f7101f4a1",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vault Schema.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -27,7 +55,7 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "path:Core",
+                      "query": "path:Features/Model",
                       "color": {
                         "a": 1,
                         "rgb": 14701138
@@ -60,6 +88,34 @@
                         "a": 1,
                         "rgb": 13682480
                       }
+                    },
+                    {
+                      "query": "path:Goals",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4375750
+                      }
+                    },
+                    {
+                      "query": "path:Issues, tag:#resolved",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4272501
+                      }
+                    },
+                    {
+                      "query": "path:Issues",
+                      "color": {
+                        "a": 1,
+                        "rgb": 8477151
+                      }
+                    },
+                    {
+                      "query": "path:\"Design Principles\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1513239
+                      }
                     }
                   ],
                   "collapse-display": false,
@@ -73,40 +129,12 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224423,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "7d5d0cff70d45636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals/Help users create their databases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbd9e1f48b7dad68",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Vault Schema.canvas",
-                "viewState": {
-                  "x": 1032,
-                  "y": 340,
-                  "zoom": -1.1887927524467894
+                  "close": false
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +209,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault Schema.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +225,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault Schema.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +246,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vault Schema.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -242,10 +266,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbd9e1f48b7dad68",
+  "active": "1825755f7101f4a1",
   "lastOpenFiles": [
-    "Goals/Help users create their databases.md",
     "Vault Schema.canvas",
+    "Templates/Issue.md",
+    "Goals/Help users create their databases.md",
     "Features/Model.md",
     "Features/Model/Model Details Schema.canvas",
     "Features/Model/Model.md",
@@ -262,7 +287,6 @@
     "Templates/Note Type Readme.md",
     "Templates/Expectation.md",
     "Templates/Feedback.md",
-    "Templates/Issue.md",
     "Issues/Analyses.md",
     "Expectations/Expectations.md",
     "Issues/Issues.md",
