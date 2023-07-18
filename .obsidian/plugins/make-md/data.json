@@ -39,12 +39,8 @@
       "Expectations - README",
       "Expectations - README",
       "Analyses",
-      "Features",
-      "Features",
-      "Expectations",
-      "Feedbacks",
-      "Issues",
-      "Ideas"
+      "Core",
+      "Core"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +78,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689597301935,
+  "spacesAutoBackupLast": 1689680711401,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

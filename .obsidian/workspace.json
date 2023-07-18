@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8068207942361825",
+        "id": "1c59902f3fa0ea16",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ideas/Ideas.md",
+                "file": "Vault Schema.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -79,35 +79,34 @@
             }
           },
           {
-            "id": "79e6d67332bf4f60",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Ideas"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1c59902f3fa0ea16",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "750e19dc7e172c91",
+            "id": "7d5d0cff70d45636",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Goals/Help users create their databases.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbd9e1f48b7dad68",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vault Schema.canvas",
+                "viewState": {
+                  "x": 1032,
+                  "y": 340,
+                  "zoom": -1.1887927524467894
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas/Ideas.md",
+                "file": "Vault Schema.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas/Ideas.md",
+                "file": "Vault Schema.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ideas/Ideas.md"
+                "file": "Vault Schema.canvas"
               }
             }
           }
@@ -243,14 +242,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79e6d67332bf4f60",
+  "active": "cbd9e1f48b7dad68",
   "lastOpenFiles": [
-    "README.md",
+    "Goals/Help users create their databases.md",
     "Vault Schema.canvas",
+    "Features/Model.md",
+    "Features/Model/Model Details Schema.canvas",
+    "Features/Model/Model.md",
+    "Features/Model/Complex Field Types.md",
+    "Core/Core.md",
+    "Core/README.md",
+    "Features/Model/Array Field.md",
+    "Features/Model",
+    "Expectations/Can Edit Schema in Data View.md",
+    "README.md",
     "Goals/Goals Schema.canvas",
     "Templates/Goal.md",
     "Issues/Nested Fields Complexity.canvas",
-    "Core/Core.md",
     "Templates/Note Type Readme.md",
     "Templates/Expectation.md",
     "Templates/Feedback.md",
@@ -266,15 +274,7 @@
     "Feedbacks/Untitled.md",
     "Feedbacks/Feedbacks.md",
     "Design Principles/Design Principles.md",
-    "Design Principles/Design Principles.md",
-    "Expectations/Tell user when is it appropriate to use nested fields.md",
     "Expectations/context.mdb",
-    "Goals/Goals.md",
-    "Features/Features.md",
-    "Expectations/Expectations - README.md",
-    "Core/Core Schema.canvas",
-    "Goals/Satisfy a niche market need.md",
-    "Features/README.md",
     "Goals/context.mdb",
     "Design Principles/Design Principles Schema.canvas",
     "Design Principles",
@@ -289,7 +289,6 @@
     "Pasted image 20230711165040.png",
     "Pasted image 20230711164345.png",
     "Expectations/Done",
-    "Ideas",
-    "Context/spacesLastSync.log"
+    "Ideas"
   ]
 }

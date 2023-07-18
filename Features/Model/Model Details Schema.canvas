@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"type":"file","file":"Features/Model.md","id":"9ff84aec2253277a","x":-400,"y":-760,"width":400,"height":320},
+		{"type":"file","file":"Features/Model/Model Schema.md","id":"f828ab324d75c081","x":0,"y":-160,"width":510,"height":293},
+		{"type":"file","file":"Features/Model/Model Data Record.md","id":"689df4ea892d4ba0","x":-960,"y":250,"width":400,"height":190},
+		{"type":"file","file":"Features/Model/Model Data.md","id":"d0c281e4821b97b6","x":-960,"y":-160,"width":515,"height":293},
+		{"type":"file","file":"Features/Model/Field Classes.md","id":"f901af7825397dc0","x":255,"y":670,"width":400,"height":160},
+		{"type":"file","file":"Features/Model/Complex Fields.md","id":"c43d8866ea2c8ecf","x":755,"y":950,"width":400,"height":326},
+		{"type":"file","file":"Features/Model/Simple Field Types.md","id":"2915b5b433a37252","x":255,"y":1390,"width":400,"height":300},
+		{"type":"file","file":"Features/Model/Complex Field Types.md","id":"c10b81cb0b1701d8","x":755,"y":1390,"width":400,"height":180},
+		{"type":"file","file":"Features/Model/Object Field.md","id":"07525d24423896eb","x":755,"y":1710,"width":400,"height":227},
+		{"type":"file","file":"Features/Model/Array Field.md","id":"feb960adc0ab16a3","x":1235,"y":1710,"width":400,"height":340},
+		{"type":"file","file":"Features/Model/Simple Fields.md","id":"4f282cc03fc60434","x":255,"y":950,"width":400,"height":326},
+		{"type":"file","file":"Features/Model/Field.md","id":"81d6eb0df771921b","x":255,"y":250,"width":400,"height":330}
+	],
+	"edges":[
+		{"id":"671371fbf4da6444","fromNode":"81d6eb0df771921b","fromSide":"bottom","toNode":"f901af7825397dc0","toSide":"top"},
+		{"id":"e9905342aa66dd73","fromNode":"f901af7825397dc0","fromSide":"bottom","toNode":"4f282cc03fc60434","toSide":"top"},
+		{"id":"8bca60f773e7a187","fromNode":"f901af7825397dc0","fromSide":"bottom","toNode":"c43d8866ea2c8ecf","toSide":"top"},
+		{"id":"cd3d1e121af48681","fromNode":"4f282cc03fc60434","fromSide":"bottom","toNode":"2915b5b433a37252","toSide":"top"},
+		{"id":"c01cbe0b8ff0b03a","fromNode":"c43d8866ea2c8ecf","fromSide":"bottom","toNode":"c10b81cb0b1701d8","toSide":"top"},
+		{"id":"e1d1b33b385b66d8","fromNode":"c10b81cb0b1701d8","fromSide":"bottom","toNode":"07525d24423896eb","toSide":"top"},
+		{"id":"05c3fcfdbf52491c","fromNode":"c10b81cb0b1701d8","fromSide":"bottom","toNode":"feb960adc0ab16a3","toSide":"top"},
+		{"id":"a9b26e7a4617d590","fromNode":"9ff84aec2253277a","fromSide":"bottom","toNode":"f828ab324d75c081","toSide":"top"},
+		{"id":"953c1f5567a55bc4","fromNode":"f828ab324d75c081","fromSide":"bottom","toNode":"81d6eb0df771921b","toSide":"top"},
+		{"id":"3a5777a0e9a6971e","fromNode":"9ff84aec2253277a","fromSide":"bottom","toNode":"d0c281e4821b97b6","toSide":"top"},
+		{"id":"dbffeabc5c9ed678","fromNode":"d0c281e4821b97b6","fromSide":"bottom","toNode":"689df4ea892d4ba0","toSide":"top"}
+	]
+}

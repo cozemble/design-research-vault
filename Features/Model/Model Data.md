@@ -1,0 +1,1 @@
+Collection for all [[Model Data Record]]s of a [[Features/Model/Model]].

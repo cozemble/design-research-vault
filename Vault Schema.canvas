@@ -1,8 +1,6 @@
 {
 	"nodes":[
 		{"type":"text","text":"# Design Principles\nThe design mindset and characteristics of this app to follow.","id":"e5224983c062caba","x":-160,"y":-360,"width":1920,"height":140},
-		{"type":"text","text":"# Core\nCore of the Cozemble system.","id":"9778f253e697e364","x":2082,"y":820,"width":310,"height":140},
-		{"type":"text","text":"why need to define core separately from the features?","id":"24aaf91befe4e193","x":2244,"y":790,"width":295,"height":58,"color":"1"},
 		{"type":"text","text":"principles will be the guide to all entities in the thought process","id":"e81bbe5b0aab3fd5","x":172,"y":-400,"width":331,"height":80,"color":"1"},
 		{"type":"text","text":"<h1 style=\"text-align: center;\">The App</h1>","id":"42720c176ae8d546","x":-160,"y":1010,"width":1920,"height":70},
 		{"type":"text","text":"# Issues\nThe problems in the design or blockages of applying a feature or an expectation.","id":"d24ed595d68c6950","x":204,"y":498,"width":431,"height":160,"color":"6"},
@@ -23,12 +21,10 @@
 		{"type":"text","text":"issue resolutions will be implemented to app if they are not affecting features or expectations","id":"b9859c92108027b5","x":420,"y":760,"width":300,"height":120,"color":"1"},
 		{"type":"text","text":"features without issues will be directly implemented","id":"c3eddddd5845c643","x":760,"y":693,"width":265,"height":70,"color":"1"},
 		{"type":"text","text":"issue resolutions may affect features and expectations","id":"8848af568a987ac9","x":268,"y":320,"width":277,"height":60,"color":"1"},
-		{"type":"text","text":"- models \n\t- nested fields\n","id":"3dc0658ab5618408","x":844,"y":230,"width":232,"height":90,"color":"#3d3d3d"},
-		{"type":"text","text":"**Core should actually be a feature**","id":"54b1d35d50b6b0c4","x":2414,"y":880,"width":250,"height":80,"color":"1"}
+		{"type":"text","text":"- models \n\t- nested fields\n","id":"3dc0658ab5618408","x":844,"y":230,"width":232,"height":90,"color":"#3d3d3d"}
 	],
 	"edges":[
 		{"id":"4e008f7740d880e7","fromNode":"159b21c765d6bee5","fromSide":"right","toNode":"6df43ce69641e689","toSide":"top","color":"5"},
-		{"id":"6fce7d725a548aad","fromNode":"42720c176ae8d546","fromSide":"right","toNode":"9778f253e697e364","toSide":"left","toEnd":"none"},
 		{"id":"335fed396f37aa2c","fromNode":"159b21c765d6bee5","fromSide":"right","toNode":"8c1344d9885dc766","toSide":"top","color":"5"},
 		{"id":"b23c9e1f454e7ea0","fromNode":"bdbcf2f9826a8b50","fromSide":"left","toNode":"d24ed595d68c6950","toSide":"top","color":"2"},
 		{"id":"5559cb62e1e0b720","fromNode":"8c1344d9885dc766","fromSide":"bottom","toNode":"42720c176ae8d546","toSide":"top"},

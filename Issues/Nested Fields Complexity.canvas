@@ -5,7 +5,7 @@
 		{"type":"text","text":"# Ideas:","id":"ecc76cce20284e6f","x":560,"y":-560,"width":250,"height":80,"color":"3"},
 		{"type":"file","file":"Ideas/Make the components clearer to reduce complexity of nested fields.md","id":"063d367df86310b3","x":1120,"y":-360,"width":520,"height":242},
 		{"type":"text","text":"# Related:","id":"3dc7da6283273cd6","x":-160,"y":320,"width":270,"height":80,"color":"5"},
-		{"type":"file","file":"Core/Complex Fields.md","id":"205db9b6b62b3579","x":-160,"y":520,"width":360,"height":260},
+		{"type":"file","file":"Features/Model/Complex Fields.md","id":"205db9b6b62b3579","x":-160,"y":520,"width":360,"height":260},
 		{"type":"file","file":"Expectations/Tell user when is it appropriate to use nested fields.md","id":"9f7da4cdf000244c","x":285,"y":520,"width":400,"height":280},
 		{"type":"text","text":"# Issue:","id":"a0025ac0da1fb7de","x":-160,"y":-560,"width":248,"height":92,"color":"1"}
 	],

@@ -1,1 +1,0 @@
-An instance of a [[Model]].

@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Core",
+      "query": "path:Features/Model",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -41,6 +41,27 @@
         "a": 1,
         "rgb": 13617446
       }
+    },
+    {
+      "query": "path:Goals",
+      "color": {
+        "a": 1,
+        "rgb": 4178886
+      }
+    },
+    {
+      "query": "path:Issues",
+      "color": {
+        "a": 1,
+        "rgb": 8671968
+      }
+    },
+    {
+      "query": "path:\"Design Principles\"",
+      "color": {
+        "a": 1,
+        "rgb": 1513239
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +74,6 @@
   "repelStrength": 14.2631578947368,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.362887369301221,
-  "close": true
+  "scale": 0.7132754626224616,
+  "close": false
 }
