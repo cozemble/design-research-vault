@@ -1,3 +1,8 @@
-Support user to help them more easily and quickly do their operations with help from AI.
-- Help user on editing [[Model Schema]]s
-- Help user on editing [[Model Data]]
+---
+tag: importance/moderate
+---
+Assist users with the decision making and app interaction with help from AI.
+
+---
+**Goals:** [[Assist users on doing their work]]
+**Affected by:** -

@@ -6,35 +6,51 @@
       {
         "id": "1c59902f3fa0ea16",
         "type": "tabs",
+        "dimension": 84.12698412698413,
         "children": [
           {
-            "id": "7d5d0cff70d45636",
+            "id": "ad21106e4c908e29",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Feature.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "cbd9e1f48b7dad68",
+            "id": "10547a0932dd43b8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vault Schema.canvas",
-                "viewState": {
-                  "x": 1032,
-                  "y": 340,
-                  "zoom": -1.1887927524467894
-                }
+                "file": "Features/Voice Interaction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52700a3f71bb3473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/User Roles.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d58070bc5e150f9f",
         "type": "tabs",
+        "dimension": 15.873015873015872,
         "children": [
           {
             "id": "1825755f7101f4a1",
@@ -42,6 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Features/User Roles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +146,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224423,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -209,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Features/User Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Features/User Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +265,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Features/User Roles.md"
+              }
             }
           }
         ]
@@ -266,12 +287,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1825755f7101f4a1",
+  "active": "52700a3f71bb3473",
   "lastOpenFiles": [
-    "Vault Schema.canvas",
-    "Templates/Issue.md",
+    "Features/Automations.md",
+    "Features/AI Support.md",
+    "Features/Voice Interaction.md",
     "Goals/Help users create their databases.md",
+    "Goals/Make it easy for field operators to capture data.md",
+    "Goals/Complement systems of data records that users already use.md",
+    "Goals/Assist users on doing their work.md",
+    "Features/User Roles.md",
+    "Goals/Make it easy for users to interact with app.md",
+    "Design Principles/Flexibility.md",
+    "Design Principles/Ease of use.md",
+    "Design Principles/Ease of getting started.md",
+    "Templates/Feature.md",
+    "Features/Nested Fields.md",
+    "Expectations/Allow expanding of nested fields on list view.md",
+    "Features/Model/Model Schema.md",
+    "Vault Schema.canvas",
     "Features/Model.md",
+    "Goals/Goals Schema.canvas",
+    "Templates/Goal.md",
+    "Templates/Issue.md",
     "Features/Model/Model Details Schema.canvas",
     "Features/Model/Model.md",
     "Features/Model/Complex Field Types.md",
@@ -281,23 +319,7 @@
     "Features/Model",
     "Expectations/Can Edit Schema in Data View.md",
     "README.md",
-    "Goals/Goals Schema.canvas",
-    "Templates/Goal.md",
     "Issues/Nested Fields Complexity.canvas",
-    "Templates/Note Type Readme.md",
-    "Templates/Expectation.md",
-    "Templates/Feedback.md",
-    "Issues/Analyses.md",
-    "Expectations/Expectations.md",
-    "Issues/Issues.md",
-    "Ideas/Make the components clearer to reduce complexity of nested fields.md",
-    "Templates/Idea.md",
-    "Ideas/Ideas.md",
-    "Templates/Design Principle.md",
-    "Templates/Feature.md",
-    "Feedbacks/Untitled.md",
-    "Feedbacks/Feedbacks.md",
-    "Design Principles/Design Principles.md",
     "Expectations/context.mdb",
     "Goals/context.mdb",
     "Design Principles/Design Principles Schema.canvas",

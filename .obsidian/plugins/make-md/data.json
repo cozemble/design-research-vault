@@ -41,7 +41,12 @@
       "Analyses",
       "Core",
       "Core",
-      "Templates"
+      "Goals",
+      "Templates",
+      "Goals",
+      "Features",
+      "Design Principles",
+      "Design Principles"
     ]
   },
   "expandedSpaces": [
@@ -79,7 +84,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689680711401,
+  "spacesAutoBackupLast": 1689779844715,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

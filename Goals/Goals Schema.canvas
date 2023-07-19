@@ -1,4 +1,10 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"4481cecc9e8d6792","x":-440,"y":-380,"width":400,"height":400,"type":"file","file":"Goals/Complement systems of data records that users already use.md"},
+		{"id":"7d94f14468b12d54","x":160,"y":-380,"width":400,"height":400,"type":"file","file":"Goals/Make it easy for field operators to capture data.md"},
+		{"id":"f53171e5420490b4","x":720,"y":-380,"width":400,"height":400,"type":"file","file":"Goals/Help users create their databases.md"}
+	],
+	"edges":[
+		{"id":"c611f344d47b29c5","fromNode":"4481cecc9e8d6792","fromSide":"right","toNode":"7d94f14468b12d54","toSide":"left"}
+	]
 }

@@ -6,6 +6,9 @@ tag: importance/low, importance/moderate, importance/high
 
 ## %% details & files for this feature %%
 
+#### Related: %% related features %%
+- [[]]
+
 ---
 **Goals:** [[]] %% required %%
 **Affected by:** - | [[]]
