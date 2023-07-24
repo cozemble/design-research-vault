@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"type":"file","file":"Features/Voice Interaction.md","id":"29b19ff21f5bc492","x":40,"y":-360,"width":480,"height":520},
+		{"type":"file","file":"Features/Voice Interaction/Record speech.md","id":"0ca3121eb4467445","x":-500,"y":430,"width":400,"height":260},
+		{"type":"file","file":"Features/Voice Interaction/Convert speech to data with AI.md","id":"d414caa782a51da2","x":80,"y":340,"width":400,"height":180},
+		{"type":"file","file":"Features/Voice Interaction/Apply changes to the data.md","id":"62d88805daa0b757","x":680,"y":430,"width":400,"height":271},
+		{"type":"file","file":"Features/Voice Interaction/Store the voice record.md","id":"b8082eda52cbf4f1","x":-900,"y":872,"width":400,"height":288},
+		{"type":"file","file":"Features/Voice Interaction/Record speech when offline to submit later.md","id":"028f865d48537828","x":-440,"y":872,"width":400,"height":277},
+		{"id":"4b3202be23001b8b","x":-1354,"y":872,"width":400,"height":248,"type":"file","file":"Features/Voice Interaction/Speech transcript.md"},
+		{"id":"a4157333074c86a1","x":-1680,"y":1320,"width":400,"height":271,"type":"file","file":"Features/Voice Interaction/Display speech transcript real-time.md"},
+		{"id":"73e81cdaeef3d9dc","x":-1202,"y":1315,"width":400,"height":276,"type":"file","file":"Features/Voice Interaction/Store speech transcript.md"},
+		{"id":"2ce875b927fb1a8f","x":680,"y":840,"width":400,"height":280,"type":"file","file":"Features/Voice Interaction/Apply changes to the data when speech is finished.md"}
+	],
+	"edges":[
+		{"id":"b75c37694703b853","fromNode":"29b19ff21f5bc492","fromSide":"bottom","toNode":"0ca3121eb4467445","toSide":"top"},
+		{"id":"01536230969423f7","fromNode":"29b19ff21f5bc492","fromSide":"bottom","toNode":"62d88805daa0b757","toSide":"top"},
+		{"id":"9074aacc24756291","fromNode":"29b19ff21f5bc492","fromSide":"bottom","toNode":"d414caa782a51da2","toSide":"top"},
+		{"id":"398a5a1e63170117","fromNode":"0ca3121eb4467445","fromSide":"bottom","toNode":"b8082eda52cbf4f1","toSide":"top"},
+		{"id":"cc9eabe39e32ca73","fromNode":"0ca3121eb4467445","fromSide":"bottom","toNode":"028f865d48537828","toSide":"top"},
+		{"id":"3d7be1d217c6ecd6","fromNode":"028f865d48537828","fromSide":"right","toNode":"62d88805daa0b757","toSide":"left"},
+		{"id":"1b1bd9dd6a797992","fromNode":"0ca3121eb4467445","fromSide":"bottom","toNode":"4b3202be23001b8b","toSide":"top"},
+		{"id":"cdaae6de3eb5b0c9","fromNode":"4b3202be23001b8b","fromSide":"bottom","toNode":"a4157333074c86a1","toSide":"top"},
+		{"id":"919840523c27e8a9","fromNode":"4b3202be23001b8b","fromSide":"bottom","toNode":"73e81cdaeef3d9dc","toSide":"top"},
+		{"id":"73c49506cbf9296c","fromNode":"73e81cdaeef3d9dc","fromSide":"right","toNode":"b8082eda52cbf4f1","toSide":"bottom"},
+		{"id":"23c59cc2a6f51360","fromNode":"62d88805daa0b757","fromSide":"bottom","toNode":"2ce875b927fb1a8f","toSide":"top"}
+	]
+}

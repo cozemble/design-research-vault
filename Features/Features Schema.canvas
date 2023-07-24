@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0aa2377527993d04","x":59,"y":60,"width":400,"height":400,"type":"file","file":"Features/Model.md"},
+		{"id":"38d308e7a1318301","x":640,"y":60,"width":400,"height":400,"type":"file","file":"Features/Automations.md"},
+		{"id":"22e5e87dbdf8fd9d","x":1200,"y":60,"width":400,"height":400,"type":"file","file":"Features/AI Support.md"},
+		{"id":"da273ceb0813db69","x":880,"y":680,"width":400,"height":400,"type":"file","file":"Features/User Roles.md"},
+		{"id":"6ea41fa523e94bcd","x":1800,"y":-20,"width":400,"height":400,"type":"file","file":"Features/Voice Interaction.md"}
+	],
+	"edges":[
+		{"id":"4ea0b22040c3848c","fromNode":"38d308e7a1318301","fromSide":"left","toNode":"0aa2377527993d04","toSide":"right"},
+		{"id":"54ae86e41e2a199b","fromNode":"6ea41fa523e94bcd","fromSide":"left","toNode":"22e5e87dbdf8fd9d","toSide":"right"},
+		{"id":"c0d2422944c45317","fromNode":"6ea41fa523e94bcd","fromSide":"left","toNode":"0aa2377527993d04","toSide":"right"}
+	]
+}

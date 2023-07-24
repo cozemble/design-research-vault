@@ -46,7 +46,10 @@
       "Goals",
       "Features",
       "Design Principles",
-      "Design Principles"
+      "Design Principles",
+      "Features",
+      "Features",
+      "Features/Voice Interaction"
     ]
   },
   "expandedSpaces": [
@@ -84,7 +87,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1689779844715,
+  "spacesAutoBackupLast": 1690211189156,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

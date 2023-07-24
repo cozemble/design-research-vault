@@ -6,51 +6,89 @@
       {
         "id": "1c59902f3fa0ea16",
         "type": "tabs",
-        "dimension": 84.12698412698413,
+        "dimension": 76.76190476190476,
         "children": [
           {
             "id": "ad21106e4c908e29",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Features/Voice Interaction/Voice Interaction Schema.canvas",
+                "viewState": {
+                  "x": 194.004838543213,
+                  "y": 562.4940859309468,
+                  "zoom": -1.333333333333333
+                }
+              }
+            }
+          },
+          {
+            "id": "7d910669534bfd4c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Feature.md",
+                "file": "Features/Voice Interaction/Record speech.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10547a0932dd43b8",
+            "id": "ecbdf7272aa83cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features/Voice Interaction.md",
+                "file": "Features/Voice Interaction/Speech transcript.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "52700a3f71bb3473",
+            "id": "7416f658ff077059",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features/User Roles.md",
+                "file": "Features/Voice Interaction/Speech transcript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0393db51bccdf7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/Voice Interaction/Store speech transcript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c3ab9ac2cddaea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/Voice Interaction/Record speech when offline to submit later.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d58070bc5e150f9f",
         "type": "tabs",
-        "dimension": 15.873015873015872,
+        "dimension": 23.238095238095237,
         "children": [
           {
             "id": "1825755f7101f4a1",
@@ -58,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Features/User Roles.md",
+                "file": "Features/Voice Interaction/Voice Interaction Schema.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features/User Roles.md",
+                "file": "Features/Voice Interaction/Voice Interaction Schema.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features/User Roles.md",
+                "file": "Features/Voice Interaction/Voice Interaction Schema.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features/User Roles.md"
+                "file": "Features/Voice Interaction/Voice Interaction Schema.canvas"
               }
             }
           }
@@ -287,38 +325,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52700a3f71bb3473",
+  "active": "ad21106e4c908e29",
   "lastOpenFiles": [
+    "Features/Voice Interaction.md",
+    "Features/Voice Interaction/Convert speech to data with AI.md",
+    "Features/Voice Interaction/Voice Interaction Schema.canvas",
+    "Features/Voice Interaction/Store speech transcript.md",
+    "Features/Voice Interaction/Speech transcript.md",
+    "Features/Voice Interaction/Display speech transcript real-time.md",
+    "Features/Voice Interaction/Record speech.md",
+    "Templates/Feature.md",
+    "Features/Voice Interaction/Record speech when offline to submit later.md",
+    "Features/Voice Interaction/Store the voice record.md",
+    "Features/Voice Interaction/Apply changes to the data.md",
+    "Features/Voice Interaction/Apply changes to the data when speech is finished.md",
+    "Features/Voice Interaction",
+    "Features/User Roles.md",
+    "Features/Features Schema.canvas",
     "Features/Automations.md",
     "Features/AI Support.md",
-    "Features/Voice Interaction.md",
     "Goals/Help users create their databases.md",
     "Goals/Make it easy for field operators to capture data.md",
     "Goals/Complement systems of data records that users already use.md",
     "Goals/Assist users on doing their work.md",
-    "Features/User Roles.md",
     "Goals/Make it easy for users to interact with app.md",
     "Design Principles/Flexibility.md",
     "Design Principles/Ease of use.md",
     "Design Principles/Ease of getting started.md",
-    "Templates/Feature.md",
     "Features/Nested Fields.md",
     "Expectations/Allow expanding of nested fields on list view.md",
     "Features/Model/Model Schema.md",
     "Vault Schema.canvas",
     "Features/Model.md",
     "Goals/Goals Schema.canvas",
-    "Templates/Goal.md",
-    "Templates/Issue.md",
     "Features/Model/Model Details Schema.canvas",
-    "Features/Model/Model.md",
-    "Features/Model/Complex Field Types.md",
-    "Core/Core.md",
-    "Core/README.md",
-    "Features/Model/Array Field.md",
     "Features/Model",
-    "Expectations/Can Edit Schema in Data View.md",
-    "README.md",
     "Issues/Nested Fields Complexity.canvas",
     "Expectations/context.mdb",
     "Goals/context.mdb",
@@ -334,7 +375,6 @@
     "Assets",
     "Pasted image 20230711165040.png",
     "Pasted image 20230711164345.png",
-    "Expectations/Done",
-    "Ideas"
+    "Expectations/Done"
   ]
 }

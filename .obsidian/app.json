@@ -3,7 +3,7 @@
     "en"
   ],
   "alwaysUpdateLinks": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "attachmentFolderPath": "/Assets",
   "userIgnoreFilters": [
     "CHANGELOG",
