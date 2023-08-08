@@ -41,14 +41,9 @@
       "Analyses",
       "Core",
       "Core",
-      "Goals",
-      "Templates",
-      "Goals",
+      "Features/Voice Interaction",
       "Features",
-      "Design Principles",
-      "Design Principles",
-      "Features",
-      "Features",
+      "Features/Voice Interaction",
       "Features/Voice Interaction"
     ]
   },
@@ -75,7 +70,7 @@
   "hiddenExtensions": [
     "mdb"
   ],
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
@@ -87,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1690211189156,
+  "spacesAutoBackupLast": 1690807918909,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",

@@ -6,7 +6,7 @@
       {
         "id": "1c59902f3fa0ea16",
         "type": "tabs",
-        "dimension": 76.76190476190476,
+        "dimension": 75.61904761904762,
         "children": [
           {
             "id": "ad21106e4c908e29",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Features/Voice Interaction/Voice Interaction Schema.canvas",
                 "viewState": {
-                  "x": 194.004838543213,
-                  "y": 562.4940859309468,
-                  "zoom": -1.333333333333333
+                  "x": -297.4508816120907,
+                  "y": 633.3438287153652,
+                  "zoom": -1.6833317108846857
                 }
               }
             }
@@ -88,7 +88,7 @@
       {
         "id": "d58070bc5e150f9f",
         "type": "tabs",
-        "dimension": 23.238095238095237,
+        "dimension": 24.38095238095238,
         "children": [
           {
             "id": "1825755f7101f4a1",
@@ -327,9 +327,13 @@
   },
   "active": "ad21106e4c908e29",
   "lastOpenFiles": [
-    "Features/Voice Interaction.md",
-    "Features/Voice Interaction/Convert speech to data with AI.md",
+    "Features/Model.md",
     "Features/Voice Interaction/Voice Interaction Schema.canvas",
+    "Features/Voice Interaction.md",
+    "Features/Voice Interaction/Voice Interaction.md",
+    "Feedbacks/Editing Nested Field Schemas in Data View is Too Complex.md",
+    "Feedbacks/Nested fields increase the complexity.md",
+    "Features/Voice Interaction/Convert speech to data with AI.md",
     "Features/Voice Interaction/Store speech transcript.md",
     "Features/Voice Interaction/Speech transcript.md",
     "Features/Voice Interaction/Display speech transcript real-time.md",
@@ -352,11 +356,7 @@
     "Design Principles/Flexibility.md",
     "Design Principles/Ease of use.md",
     "Design Principles/Ease of getting started.md",
-    "Features/Nested Fields.md",
-    "Expectations/Allow expanding of nested fields on list view.md",
-    "Features/Model/Model Schema.md",
     "Vault Schema.canvas",
-    "Features/Model.md",
     "Goals/Goals Schema.canvas",
     "Features/Model/Model Details Schema.canvas",
     "Features/Model",
